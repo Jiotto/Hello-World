@@ -1,2 +1,2 @@
 # Hello-World
-New ideas
+I am trying to understand Git...
